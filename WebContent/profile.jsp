@@ -19,7 +19,7 @@
 		<td><img src="image/lenovo.jfif" alt="lenovo"></td>
 	</tr>
 </table>
-		
+	<a href="Hello.jsp">Click here</a>	
 </table>
 </body>
 </html>
